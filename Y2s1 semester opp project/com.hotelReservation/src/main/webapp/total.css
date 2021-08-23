@@ -1,0 +1,48 @@
+@charset "ISO-8859-1";
+
+#latest{
+	
+  border: 2px solid red;
+
+  border-radius: 15px 50px;
+  font-weight: 900;
+
+   
+  
+}
+.latestJob{
+	margin-left: 10px;
+	margin-right: 20px;
+ 	border:0px solid rgba(0, 191, 255,1);
+	padding: 20px;
+	margin-top: 70px;
+	background-color: rgba(255,255,255,0.6);
+	box-shadow: 2px 2px 6px #ff0080;
+	position: block;
+	width: 100px;
+	height: 200px;
+	border-radius: 9px;
+	
+}
+.hero-image {
+
+  margin-top: 100px;
+  height: 100px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+.bodystart{
+	
+	border: 0px;
+	border-radius:10%;
+	margin-top: 100px;
+}
+.latestJob:hover{
+	box-shadow: 20px 20px 20px #E9897E;
+	transition-duration: .6s;
+	transition-property: all;
+	width:150px;
+	height: 210px;
+}

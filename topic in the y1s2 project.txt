@@ -1,0 +1,23 @@
+(1) 	delete customer / hotelmanager
+  	sign-up hotel manager
+  	update hotelmanager details 
+  	hotel manager login
+
+
+(2)	customer sing-up 
+	customer login
+ 	customer profile update 
+	delete the customer account
+
+(3)	booking room / add room
+	cancel room
+	update room details
+	seach room 
+
+(4)	add payment 
+	after the add display payment details 
+	update the payment details 
+	delete the payment details
+		
+
+
